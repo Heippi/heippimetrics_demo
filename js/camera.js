@@ -82,7 +82,7 @@
                             image_content = canvas.toDataURL("image/jpeg");
 
                              enviarimg(image_content,contador);
-                        },3000
+                        },2000
                     );
                 }, 
                 function(){
